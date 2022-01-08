@@ -177,9 +177,9 @@ Test Case 20:
 - Output: Button is disabled when there's only one entry in total or there's no entries remaining to go back
 
 Test Case 21:
-- Functionality: Search page, reset button.
-- Input: Button is pressed.
-- Output: All fields are cleared.
+- Functionality: Search page, reset button
+- Input: Button is pressed
+- Output: All fields are cleared
 
 5. If I had extra time available, I would:
     - Program a function to change the commision values
